@@ -1,9 +1,7 @@
 # planting-bench
 Plans for planting bench
 
-This is an OSHW certified basic DIY planting bench.  It only uses 3 different materials and is desinged for minimal waste.
-
-![OSHW US000646](OSHW_mark_US000646.png)
+This is an OSHW certified (US000646) basic DIY planting bench.  It only uses 3 different materials and is desinged for minimal waste.
 
 ![Finished bench](finished.jpg)
 
